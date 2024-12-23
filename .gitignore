@@ -1,0 +1,11 @@
+*
+
+!adapter
+!adapter/**
+!auth
+!auth/**
+!cs
+!cs/**
+
+!.gitignore
+!go.mod
